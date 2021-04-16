@@ -1,0 +1,14 @@
+pyrogram
+TgCrypto
+pytgcalls
+python-dotenv
+requests
+aiohttp
+youtube_search_python
+asyncio
+youtube_search
+youtube-dl
+wget
+python-arq
+youtube_dl
+aiofiles
