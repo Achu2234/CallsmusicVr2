@@ -1,8 +1,8 @@
 {
-  "name": "CallsMusic ++",
-  "description": "A CallsMusic Project! Edited By Itz-Fork!",
+  "name": "CallsmusicVr2",
+  "description": "A CallsMusic Project! Upated By Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs!",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Itz-fork/Callsmusic-Plus",
+  "repository": "https://github.com/Achu2234/CallsmusicVr2s",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -28,7 +28,7 @@
     "DURATION_LIMIT": {
       "description": "Max Time Limite For One Song.",
       "required": true,
-      "value": "180"
+      "value": "400"
     },
     "LOG_CHAT": {
       "description": "Dumb Chat Where Bot Errors Go!",
