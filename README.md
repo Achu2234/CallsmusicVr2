@@ -44,8 +44,7 @@ Join the [telegram group](https://t.me/Yeageristbots) for support and the [chann
 <a href="https://replit.com/@KVCEntertainmen/Call-Music-Vr2#main.py"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
 
 
-#### Pyrogram String Session
-<a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
+
 
 
 ### Requirements
