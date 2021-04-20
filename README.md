@@ -19,22 +19,9 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 
 And Some Cool Features! 😚️
 
-# Deployment
-Before You Deploy make sure you Starred & Forked **[The Original Repo ❤️](https://github.com/callsmusic/callsmusic)** . **And This Repo!** 🤗️
-
-
-## The Easy Way ⚡️
-
-### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/Callsmusic-Plus-6)
-
-#### Pyrogram String Session
-<a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
-
 
 ## Support!
-Facing Problems While Deploying or Using? **[Read How To Deploy](https://github.com/Itz-fork/Callsmusic-Plus/wiki/How-To-Deploy-This!)**
-or Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
+ Ask Me In **[Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs Sᴜᴩᴩᴏʀᴛ](https://t.me/Yeageristbots)**
 
 
 ### Config Vars 😂,
@@ -47,7 +34,7 @@ or Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
  `DURATION_LIMIT` - Max Time Limited For a song!</br>
  `USER_ACCNAME` - Your bot's streamer account username without "@" ! </br>
 
-**[How To Get Config Vars? 🤔 Read This!](https://github.com/Itz-fork/yeah-my-man/wiki/How-To-Deploy-This!)**
+
 
 
 ## The Hard Way!
@@ -88,16 +75,15 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - [CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the original Repo! ❤️
 
-- [Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn): development
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 
-## Thanks To,
+## Copyright,
 
-- [N A C CREATIVE](https://t.me/n_a_c_creative): For Voice Chat Link Command!
-- Mr Dark prince : For Yt / Saavn Module
+This code is not fully ownned by me this code this Vr2 of  [CallsMusic](https://github.com/callsmusic/callsmusic) this code supports more feauturs
 
 
 ## License
 
 ### GNU General Public License v3.0
 [Read more](http://www.gnu.org/licenses/#GPL)
+
+
