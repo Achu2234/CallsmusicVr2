@@ -1,6 +1,6 @@
-# Calls Music Plus
+# Calls music Vr2
 All Credits To [CallsMusic](https://github.com/callsmusic/callsmusic) ❤️ .
-This is CallsMusic-1
+This is CallsmusicVr2
 
 ## Original Repo!
 Here it is! [This The Original Repo ❤️](https://github.com/callsmusic/callsmusic)
