@@ -39,7 +39,7 @@ Made with ❤️ <b>@Animemusicarchive6</b>""",
     )
     
     
-@Client.on_message(command(["help", "help@TheNexasMusic_bot"]))
+@Client.on_message(command(["help", "help@YeageristMusic_bot"]))
 async def help(_, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name} 😉️!</b>
@@ -109,11 +109,9 @@ async def credits2(_, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name} 😉️!</b>
 __Note!__ ⚠️: This Project Is <b>Not Fully Owned By Me</b> !
-Credits To,
-<b><a href="https://github.com/CallsMusic">CallsMusic</a></b> - For Callsmusic (Main Code ❤️) !
-<b><a href="https://github.com/nikhileashy">N A C</a></b> - For <code>/vc</code> Command
-Made with ❤️ by **@NexaBotsUpdates**
-Respect To Code Owners! Not To Me!""",
+
+Made with ❤️ by **@Animemusicarchive6**
+
         reply_markup=InlineKeyboardMarkup(
             [
                 [
