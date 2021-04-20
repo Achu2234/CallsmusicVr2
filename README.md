@@ -21,7 +21,9 @@ And Some Cool Features! 😚️
 
 
 ## Support!
- Ask Me In **[Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs Sᴜᴩᴩᴏʀᴛ](https://t.me/Yeageristbots)**
+
+Join the [telegram group](https://t.me/Yeageristbots) for support and the [channel](https://t.me/Animemusicarchive6) for updates.   
+
 
 
 ### Config Vars 😂,
@@ -35,9 +37,8 @@ And Some Cool Features! 😚️
  `USER_ACCNAME` - Your bot's streamer account username without "@" ! </br>
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/CallsmusicVr2)
 
-
-## The Hard Way!
 
 ### Requirements
 
