@@ -97,7 +97,10 @@ This code is not fully ownned by me this code this Vr2 of  [CallsMusic](https://
 [Read more](http://www.gnu.org/licenses/#GPL)
 
 
-A project by! [This The Original Repo ❤️](https://telegra.ph/file/08e0f48e706b9eac549bd.mp4
+A project by
+<p align="center">
+    <a href="https://telegra.ph/file/08e0f48e706b9eac549bd.mp4">
+
 )
 
 
