@@ -48,22 +48,27 @@ Join the [telegram group](https://t.me/Yeageristbots) for support and the [chann
 Checked in 5230,64ms
 
 UserBot API
+
 Average Ping: 0,83 ms
 
 UserBot PyTgCalls
 
 WebSite
+
 Average Ping: 285,8 ms
 
 QR API Average Ping: 186,91 ms
 
 Bot WebHook
+
 Average Ping: 239,93 ms
 
 Yeagerist-Music-Streamer-Bot Dashboard
+
 Average Ping: 252,39 ms
 
 YouTube.com
+
 Average Ping: 440,74 ms
 
 
